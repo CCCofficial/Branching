@@ -1,5 +1,5 @@
 
-__Author: Wallace Marshall, UCSF__
+# Author: Wallace Marshall, UCSF #
 
 **L_system_rule_sequence_variable_length3.m**
 
