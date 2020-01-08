@@ -1,3 +1,6 @@
+
+__Author: Wallace Marshall, UCSF__
+
 **L_system_rule_sequence_variable_length3.m**
 
 modified from L-system_rule_sequence to take a vector of branch lengths
